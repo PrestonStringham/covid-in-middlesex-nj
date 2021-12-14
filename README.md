@@ -93,3 +93,7 @@ This data is collected on a daily basis. The columns relevant to my analysis are
 * The Mask-Wearing Survey Data was provided by The New York Times and the license for this data can be found [here](https://github.com/nytimes/covid-19-data/blob/master/LICENSE)
 * The COVID-19 Reported Patient Impact and Hospital Capacity by Facility data was provided by healthdata.gov. I was unable to find a license or terms of use for this dataset.
 * The COVID-19 Vaccinations in the United States, County dataset was obtained from the CDC and the license for this data is found [here](https://www.cdc.gov/other/agencymaterials.html)
+
+# Additional Packages
+* [Anaconda](https://www.anaconda.com/) was used as my data science platform. This gives you access to all the packages used in this project as well as Jupyter Notebooks which is necessary to open the single src file. The license agreement for anaconda can be found [here](https://www.anaconda.com/eula-anaconda-individual-edition).
+* [Pandas](https://pandas.pydata.org/) was used extensively throughout this project as the main data manipulation tool. Pandas falls under the BSD 3-Clause License.
